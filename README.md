@@ -22,4 +22,4 @@ This project applies unsupervised machine learning techniques to identify patien
 
 ### Exploratory Data Analysis & Anomaly Detection 
 This project presents an Exploratory Data Analysis (EDA) and anomaly detection pipeline on industrial sensor data.
-[View repository](https://github.com/DSANCHEZ2210/Exploratory-Data-Analysis-and-Anomaly-Detection.)
+[View repository](https://github.com/DSANCHEZ2210/Exploratory-Data-Analysis-and-Anomaly-Detection)
