@@ -10,7 +10,7 @@ Classify physical activities using smartphone sensors (acceleration & gyroscope)
 
 ### Inventory Forecasting
 Forecast sales for an oil company using LSTM, Prophet, and ARIMA.  
-🔗 [View repository](https://github.com/DSANCHEZ2210/Inventory-forecasting)
+🔗 [View repository](https://github.com/DSANCHEZ2210/Inventory-forecating)
 
 ### Retail Cash Flow Optimization
 Model to optimize cash transfers between stores using linear programming.  
