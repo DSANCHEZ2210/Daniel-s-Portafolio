@@ -19,3 +19,7 @@ Model to optimize cash transfers between stores using linear programming.
 ### Diabetes Risk Profiling 
 This project applies unsupervised machine learning techniques to identify patient profiles and risk patterns from a medical dataset about diabetes. 
 [View repository](https://github.com/DSANCHEZ2210/Diabetes-Risk-Profiling)
+
+### Exploratory Data Analysis & Anomaly Detection 
+This project presents an Exploratory Data Analysis (EDA) and anomaly detection pipeline on industrial sensor data.
+[View repository](https://github.com/DSANCHEZ2210/Exploratory-Data-Analysis-and-Anomaly-Detection.)
